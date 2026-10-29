@@ -5,7 +5,7 @@
 <!-- badges: end -->
 
 
-Análisis de la distribución y abundancia de S. grammicus y S.torquatus en remanentes de pedregal de la zona sur de CDMX.
+Análisis de la distribución y abundancia de S. grammicus y S.torquatus en remanentes de pedregal de la zona sur de la CDMX.
 
 ## Estructura
 - data/raw: datos originales
